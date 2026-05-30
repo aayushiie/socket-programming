@@ -1,0 +1,11 @@
+# Ignore all compiled Java class files
+*.class
+
+# Ignore packaged Java archives
+*.jar
+*.war
+*.ear
+
+# Ignore build tool directories (Maven / Gradle)
+target/
+build/
